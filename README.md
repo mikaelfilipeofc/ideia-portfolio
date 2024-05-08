@@ -10,10 +10,6 @@ Modelo de um portfólio simples e eficaz.
 
 <img src="/desktop.png" />
 
-### Screenshot Mobile 📱
-
-<img src="/mobile.jpeg" width="200" height="400" />
-
 ### Tecnologias usadas 📚
 
 
