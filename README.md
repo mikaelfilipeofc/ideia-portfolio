@@ -4,7 +4,7 @@ Modelo de um portfólio simples e eficaz.
 
 ### Preview 👀
 
-(https://pagladinsimpl.netlify.app/)
+(https://ideportmik.netlify.app/)
 
 ### Screenshot Desktop 💻
 
